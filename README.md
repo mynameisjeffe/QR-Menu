@@ -1,6 +1,5 @@
 # QR-Menu platform
 
-## To see a working demo
 To see the customer view:
 https://guarded-wave-1.herokuapp.com/2/food
 
